@@ -1,0 +1,31 @@
+_repo: Up-and-Down_45742
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benson, E. F. (Edward Frederic)
+    aliases:
+    - Benson, Edward F. (Edward Frederic)
+    - Benson, Edward Frederic
+    birthdate: 1867
+    deathdate: 1940
+    gutenberg_agent_id: '812'
+    url: http://www.gutenberg.org/2009/agents/812
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Frederic_Benson
+description: ''
+gutenberg_issued: '2014-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45742'
+  lccn: '18017412'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+title: Up and Down
+url: http://www.gutenberg.org/ebooks/45742
