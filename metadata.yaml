@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/812
     wikipedia: http://en.wikipedia.org/wiki/Edward_Frederic_Benson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45742#Up-and-Down
 gutenberg_issued: '2014-05-24'
 gutenberg_type: Text
 identifiers:
